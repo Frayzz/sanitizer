@@ -1,0 +1,22 @@
+{
+    "name": "aske/sanitizer",
+    "description": "Library for validating incoming data. Test task from arbuz.kz.",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Aske"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.4|^8.0",
+        "ext-json": "*",
+        "ext-ctype": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sanitizer\\": "src/"
+        }
+    }
+}
