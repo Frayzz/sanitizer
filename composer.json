@@ -1,5 +1,5 @@
 {
-    "name": "aske/sanitizer",
+    "name": "frayzz/sanitizer",
     "description": "Library for validating incoming data. Test task from arbuz.kz.",
     "type": "library",
     "license": "Apache-2.0",
