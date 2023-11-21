@@ -1,5 +1,5 @@
 # sanitizer
- Library for validating incoming data. Test task from arbuz.kz.
+ Library for validating incoming data.
 
 
  Для установки выполняем набор комманд
